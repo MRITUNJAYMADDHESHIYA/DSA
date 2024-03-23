@@ -1,0 +1,14 @@
+linked lists do not have a fixed size, and their elements (nodes) are not stored in contiguous memory locations. 
+Instead, each element in a linked list consists of a data part and a reference (link or pointer) to the next element in the sequence.
+The data elements are stored in nodes, and each node contains a data element and a reference (or pointer) to the next node in the sequence.
+
+Data:- This field stores the actual element 
+Next:- This field stores a reference or link to the next node in the sequence.
+head:- first element
+
+int x=2;              Node x = Node(2,nullptr);            Node* y = new Node(2,nullptr);      -->Pointer to the memory location
+int* y = &x;          Node* y = &x;
+cout<<y;
+
+
+
