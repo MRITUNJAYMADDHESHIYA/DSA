@@ -1,11 +1,10 @@
-Depth-First Search (DFS):->
-       1.Inorder Traversal:-left->root->right
-       2.preorder Traversal:- root->left->right
-       3.post-order Traversal;- left->right->root
+Path:->A node can't occure twice in a Path and edge between the adjecent node
 
+undirected graph:->
+Degree;-> number of atteached edge
+Total degree = 2*no. of edge
 
-Breadth-First Search (BFS):->(levels)
+directed graph:->
+indegree and outdegree
 
-
-A multiset:-> in C++ is an associative container that allows storage of multiple elements with the same value while maintaining them in a sorted order. 
-
+edge weight:->weight of edge
