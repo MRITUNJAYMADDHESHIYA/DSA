@@ -1,0 +1,11 @@
+Depth-First Search (DFS):->
+       1.Inorder Traversal:-left->root->right
+       2.preorder Traversal:- root->left->right
+       3.post-order Traversal;- left->right->root
+
+
+Breadth-First Search (BFS):->(levels)
+
+
+A multiset:-> in C++ is an associative container that allows storage of multiple elements with the same value while maintaining them in a sorted order. 
+
